@@ -1,0 +1,453 @@
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, 'lucida grande',tahoma,verdana,arial,sans-serif;
+    background-color: #E9EAEE;
+}
+
+#fbRequestsJewel {
+    background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yF/r/NZCw6YgeYwf.png);
+}
+
+#fbMessagesJewel {
+    background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yD/r/iFITN94sQjr.png);
+}
+
+#fbNotificationsJewel {
+    background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/ya/r/CrTTQFVAXDz.png);
+}
+
+#fbRequestsJewel a.jewelButton {
+    background-image: none;
+}
+
+#fbMessagesJewel a.jewelButton {
+    background-image: none;
+}
+
+#fbNotificationsJewel a.jewelButton {
+    background-image: none;
+}
+
+#fbNotificationsJewel.west a.jewelButton {
+    background-image: none;
+}
+
+#contentCol {
+    background-color: #E9EAEE;
+}
+
+.hasLeftCol #contentCol {
+    border: none;
+}
+
+.hasRightCol #contentCol {
+    border: none;
+}
+
+.uiStream .uiStreamStory .highlightSelector {
+    margin: -2px 25px 0 0;
+}
+
+._3rbh .clearfix .fixed_always {
+    top: -1426px !important;
+}
+
+._6a {
+    margin-left: 0;
+    margin-top: 0;
+}
+
+._554n {
+    visibility: hidden;
+}
+
+_3rbh {
+    top: 350px !important;
+    visibility: hidden;
+}
+
+._493u ._3rbg {
+    visibility: visible;
+}
+
+#u_0_1d_right {
+    margin-left: 600px !important;
+    position: fixed !important;
+    visibility: hidden;
+}
+
+.uiSelectorButton,.uiCloseButton {
+    visibility: hidden !important;
+}
+
+.fbNubFlyoutTitlebar {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+#leftCol {
+    margin-left: 30px;
+    width: 150px;
+}
+
+#rightCol,.sortLink,#u_jsonp_7_12 {
+    visibility: hidden;
+}
+
+.fbPhotoSnowlift .rhc {
+    width: 250px !important;
+}
+
+.fbPhotoSnowlift .stage {
+    width: 100% !important;
+}
+
+.uiStreamStory .uiStreamSubstory .storyContent {
+    width: 90% !important;
+}
+
+.fbChatSidebarMessage,.uiGrid,._4oes {
+}
+
+.groupJumpLayout .fbGroupsBoulderStream .uiStreamHeader .uiStreamHeaderText {
+    visibility: hidden;
+}
+
+.mtl {
+    visibility: hidden;
+}
+
+._4ks > li {
+    border-style: none;
+    border: 0;
+}
+
+.uiContextualLayerParent {
+    margin-left: 80px;
+}
+
+.storyContent,#pagelet_bookmark_seeall {
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+    margin-top: 15px;
+    padding: 7px;
+    -webkit-box-shadow: 0 3px 0 0 #DFDFDF;
+    background-color: #FFF;
+    width: 680px;
+}
+
+#pagelet_pinned_nav,#pagelet_bookmark_nav,#pagelet_composer,#pagelet_group_composer {
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+    padding-left: 3px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    margin-top: 15px;
+    background-color: #FFF;
+}
+
+#pagelet_bookmark_nav {
+    position: absolute !important;
+    float: right;
+    left: 640%;
+    top: 2%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+#fbChatSidebarBody,.fbChatSidebar .fbChatSidebarBody {
+    height: 100% !important;
+    overflow-x: hidden;
+}
+
+.hasLeftCol #mainContainer {
+    border: 0;
+}
+
+.storyContent {
+    margin-left: 70px;
+}
+
+.uiStreamStory .storyContent .storyInnerContent {
+    margin-left: 20px;
+}
+
+#pagelet_composer {
+    width: 758px;
+}
+
+._2yg {
+    border-radius: 5px;
+    width: 100%;
+}
+
+._493u ._4_7u {
+    float: left;
+}
+
+#pagelet_timeline_main_column {
+    margin-left: 23%;
+    width: 830px;
+}
+
+textInput .mentionsTextarea .uiTextareaAutogrow .uiTextareaNoResize .UFIAddCommentInput {
+    border: 1px solid #DFDFDF;
+    border-radius: 5px;
+}
+
+.clearfix .fbTimelineCapsule .fbTimelineCapsuleBorn ol li {
+    width: 700px !important;
+}
+
+.fbTimelineTwoColumn[data-side=r] {
+    float: none;
+    width: 300px;
+}
+
+.fbTimelineUnit[data-side=l] {
+    float: none;
+}
+
+.spinePointer {
+    visibility: hidden;
+}
+
+.fbTimelineCapsule {
+    background: none;
+}
+
+._53ip ._53in {
+    margin-left: -160px;
+    border-radius: 5px;
+}
+
+.fbChatSidebar {
+    position: absolute !important;
+    margin-left: -3px;
+    margin-top: 44px;
+    height: 99999px !important;
+    overflow-y: hidden;
+}
+
+._2wr {
+    visibility: hidden;
+}
+
+._2yg {
+    border: none;
+    width: 100%;
+}
+
+._4ki > li:first-child {
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+._1dsp {
+    background: none;
+    border: none;
+}
+
+._1dsq {
+    border: none;
+}
+
+.sidebarMode .fbx #pageHead,.sidebarMode #blueBar #pageHead {
+    padding-right: 130px;
+}
+
+.pic,img {
+    border-radius: 2px;
+}
+
+.profilePic {
+    border-radius: 5px;
+    border: solid 3px #5D8CE9;
+    margin-top: -24px;
+}
+
+#pageLogo {
+    background-image: url(https://fbstatic-a.akamaihd.net/rsrc.php/v2/yM/r/1ZNpB_wvKYM.png);
+    background-repeat: no-repeat;
+    width: 21px;
+    height: 21px;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+#pageLogo a {
+    visibility: hidden !important;
+}
+
+._52zl {
+    visibility: hidden;
+}
+
+._42fz.invis {
+    opacity: 1;
+}
+
+._42fz a:hover {
+    background-color: transparent;
+}
+
+._42fz a:selected {
+    background-color: transparent;
+}
+
+.fbChatSidebar .fbChatOrderedList ._42fz a:hover {
+    -webkit-box-shadow: 0 !important;
+    border: 0;
+}
+
+.fbSidebarGripper {
+    visibility: hidden;
+}
+
+.uiTypeahead .uiSearchInput {
+    background-color: transparent;
+}
+
+#navSearch .uiSearchInput {
+    border-top: 0;
+    background-color: #3b5998;
+}
+
+#navSearch .uiTypeahead {
+    border: 0;
+    background-color: #3b5998;
+}
+
+.uiSearchInput button {
+    visibility: hidden;
+}
+
+.uiSearchInput input {
+    background-color: transparent;
+    font-size: 16px;
+}
+
+textarea,.inputtext,.inputpassword {
+    border: 0 solid #3b5998;
+    color: grey;
+    font-weight: lighter;
+    -webkit-font-smoothing: antialiased;
+}
+
+.wideSearchTypeaheadView {
+    margin-top: 8px;
+    border-radius-left-bottom: 5px;
+}
+
+.inputtext {
+    color: #FFF !important;
+    font-family: Helvetica;
+}
+
+.DOMControl_placeholder {
+    color: #FFF !important;
+    font-family: Helvetica;
+}
+
+clearfix _50zw a {
+    background-color: transparent;
+}
+
+.fbChatSidebar {
+    width: 56px !important;
+    float: left;
+    position: absolute;
+    left: 0;
+    background-image: url(http://fat-pixel.co.uk/external/cdn/faded.png);
+    background-repeat: repeat-y;
+    background-size: auto;
+    border-bottom: 0;
+    border-right: 0;
+}
+
+.fixed_elem {
+    position: absolute !important;
+}
+
+.notifNegativeBase #fbRequestsFlyout {
+    position: fixed !important;
+    left: 65.5%;
+    margin-top: 10px;
+}
+
+.notifNegativeBase #fbMessagesFlyout {
+    position: fixed !important;
+    left: 65.5%;
+    margin-top: 10px;
+}
+
+.notifNegativeBase #fbNotificationsFlyout {
+    position: fixed !important;
+    left: 65.5%;
+    margin-top: 10px;
+}
+
+#jewelContainer {
+    margin-right: 50px !important;
+    margin-top: 3px;
+}
+
+.uiScrollableArea .scrollableOrderedList .fade .uiScrollableAreaWithShadow {
+    height: 100% !important;
+}
+
+.uiStream .uiStreamHeader .uiStreamHeaderChronologicalForm,.uiStream .uiStreamHeader .uiStreamHeaderText {
+    background-color: transparent;
+}
+
+.uiScrollableAreaWrap {
+    margin-left: 8px;
+}
+
+.actorPhoto {
+    margin-left: -70px;
+}
+
+.selectedStoryIndicator {
+    visibility: hidden;
+}
+
+.rfloat {
+    visibility: hidden;
+}
+
+#jewelContainer {
+    float: right;
+}
+
+.slim #blueBar {
+    -webkit-box-shadow: none;
+}
+
+#blueBar {
+    border-bottom: 0;
+}
+
+chrome-extension://fjnbnpbmkenffdnngjfgmeleoegfcffe/manage.html
+#blueBar {
+    background-color: transparent;
+    border-bottom: 0;
+}
+
+#pageFooter {
+    visibility: hidden;
+}
+
+#pagelet_bluebar {
+    background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAAqCAYAAAByfjF8AAAAPElEQVQIW22N2w0AIAjEGtZzDldzzfqDxNcPges10PowAAIhtxrik2VPwjsrYztXGTmMzfUFn8z6yxcknbUXHI7LdQpIAAAAAElFTkSuQmCC);
+    background-repeat: repeat-y;
+    background-size: auto;
+    background-position: 0 0;
+    background-color: #3b5998;
+    border: 1px solid #324e78;
+    border-bottom-color: #003781;
+    border-left: 0;
+    -webkit-box-shadow: 0 1px 2px rgba(255,255,255,.15) inset, 0 1px 1px 0 rgba(0,0,0,.15);
+    height: 42px;
+    overflow: hidden;
+    position: relative;
+}
